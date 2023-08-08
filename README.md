@@ -38,5 +38,5 @@ exit
    
 [^3]: **If u cant open that folder, go to "C:\ProgramData\Microsoft\Windows\Start Menu\Programs"**
 
-- Done. After you start the windows, it will set-up default the OS you want.
+### Done. After you start the OS, it will set-up default the OS you selected.
 
