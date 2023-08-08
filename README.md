@@ -16,4 +16,4 @@ We want to create a bat to click and automatically restart to other OS.
 > 
 > ![Example](https://github.com/gzmatte/Dual-Boot/assets/117684932/04b9a821-99e3-4bb7-9242-3cf1bd5aec9d)
 >
-> s
+> Now,.
