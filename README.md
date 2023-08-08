@@ -12,7 +12,7 @@ exit
 ```
 
 Now, between the brackets **{ }**, we need to type the desired OS **ID**
- > _(just type bcdedit in cmd)._
+[^]: _(just type bcdedit in cmd)._
 
 ![Example](https://github.com/gzmatte/Dual-Boot/assets/117684932/04b9a821-99e3-4bb7-9242-3cf1bd5aec9d)
 
