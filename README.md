@@ -1,6 +1,6 @@
 # Dual-Boot Lazy Restarter
-> We want to create an executable batch to click in there and automatically open the other OS.
->
+We want to create an executable batch to click in there and automatically open the other OS.
+
 > How can we do this?
 >
 > Easy, first we create a .bat file with the next parameters:
