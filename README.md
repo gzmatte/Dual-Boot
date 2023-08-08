@@ -29,7 +29,6 @@ exit
 bcdedit /default {}
 exit
 ```
-
 - Between the brackets type your MAIN OS **ID**. [^1] _(or the one you want to keep default)_
 
 - Save and put the bat in Shell:Startup. [^3]
