@@ -15,4 +15,4 @@ We want to create an icon to click and automatically restart to another OS.
 > 
 > ![Example](https://github.com/gzmatte/Dual-Boot/assets/117684932/04b9a821-99e3-4bb7-9242-3cf1bd5aec9d)
 >
-> Now,
+> Done. Save the file and create a shorcut if u want to change the icon _(Right Click > Properties > Change Icon)_
