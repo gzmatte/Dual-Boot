@@ -11,8 +11,8 @@ shutdown /r /f /t 0
 exit
 ```
 
-Now, between the brackets **{ }**, we need to type the desired OS **ID**[^How]
-[^How]: _(just type bcdedit in cmd)._
+Now, between the brackets **{ }**, we need to type the desired OS **ID**[^1]
+[^1]: _(just type bcdedit in cmd)._
 
 ![Example](https://github.com/gzmatte/Dual-Boot/assets/117684932/04b9a821-99e3-4bb7-9242-3cf1bd5aec9d)
 
