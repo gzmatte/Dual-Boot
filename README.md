@@ -33,8 +33,18 @@ exit
 - Between the brackets type your MAIN OS **ID**. [^1] _(or the one you want to keep default)_
 
 - Save and put the bat in Shell:Startup. [^3]
-   
+
 [^3]: **If u cant open that folder, go to "C:\ProgramData\Microsoft\Windows\Start Menu\Programs"**
 
 ### Done. After you start the OS, it will set-up default the OS you selected.
 
+
+
+
+</br> 
+</br> 
+</br> 
+</br> 
+</br> 
+</br> 
+</br>
