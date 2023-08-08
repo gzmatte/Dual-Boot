@@ -18,16 +18,20 @@ We want to create an icon to click and automatically restart to another OS.
 > Done. Save the file and create a shortcut if u want to change the icon. _(Right Click > Properties > Change Icon)_.
 
 
-Now, you can do the same in the another OS. Or create a startup file to automatically set default your primary os.
+
+
+Now, you can do the same in the another OS. Or create a startup file to automatically set default your primary OS.
+
 > Create this **[.bat](https://github.com/gzmatte/Dual-Boot/releases/download/1/start-bcd.bat);
 > ```
 > @echo off
 > bcdedit /default {}
 > exit
 > ```
+> 
 > Between the brackets type your MAIN OS **ID**. _(or the one you want to keep default)_
 > Save and put the bat in _Shell:Startup_
-
+> 
 > If u cant open that folder, there's the directory:
 > ```
 > "C:\ProgramData\Microsoft\Windows\Start Menu\Programs"
