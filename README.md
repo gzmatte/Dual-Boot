@@ -3,14 +3,12 @@
 
 
 - First we create a **[.bat](https://github.com/gzmatte/Dual-Boot/releases/download/1/bat.bat)** file with the next parameters:
-
 ```
 @echo off
 bcdedit /default {}
 shutdown /r /f /t 0
 exit
 ```
-
 - Now, between the brackets **{ }**, we need to type the desired OS **ID**. [^1]
 [^1]: **(just type bcdedit in cmd).**
 
