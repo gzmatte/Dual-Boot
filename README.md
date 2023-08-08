@@ -18,7 +18,6 @@ exit
 
 - Done, Save & create a shortcut if u want to change the icon. [^2]
 [^2]: **(Right Click the Shortcut > Properties > Change Icon).**
-
 </br> 
 
 -----
