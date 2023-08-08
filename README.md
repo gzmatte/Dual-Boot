@@ -12,5 +12,5 @@ We want to create a bat to click and automatically restart to other OS.
 > Now, beetween the brackets **{ }**, we need to type the derised OS **ID**.
 > _(just type bcdedit in cmd, loser.)_
 >
-> Example:    
+> _like this;_
 >         ![Example](https://github.com/gzmatte/Dual-Boot/assets/117684932/6c683cd0-e616-4f0e-ae57-fe4d5aa6b5df)
