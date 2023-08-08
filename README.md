@@ -1,9 +1,7 @@
 # Dual-Boot Lazy Restarter
 We want to create a bat to click and automatically restart to other OS.
 
-> How can we do this?
->
-> Easy, first we create a .bat file with the next parameters:
+> First we create a .bat file with the next parameters:
 >
 > ```
 > @echo off
