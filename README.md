@@ -20,8 +20,8 @@ exit
 [^2]: **(Right Click the Shortcut > Properties > Change Icon).**
 
 </br> 
-</br> 
----
+
+-----
 
 ### Now, you can do the same in your other OS. Or automatically set default your primary OS;
 
