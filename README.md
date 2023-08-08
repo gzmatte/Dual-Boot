@@ -33,7 +33,7 @@ exit
 
 [^3]: **If u cant open that folder, go to "C:\ProgramData\Microsoft\Windows\Start Menu\Programs"**
 
-### Done. Follow please.
+### Ready! Follow pls.
 
 </br>
 
