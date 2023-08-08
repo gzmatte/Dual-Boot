@@ -21,7 +21,7 @@ exit
 
 -----
 
-### Now, you can do the same in your other OS. Or automatically set default your primary OS;
+### Now, you can do the same in your other OS > Or automatically set default your primary OS;
 
 - Create this **[.bat](https://github.com/gzmatte/Dual-Boot/releases/download/1/start-bcd.bat)**;
 ```
