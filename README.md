@@ -1,5 +1,5 @@
 # Dual-Boot Lazy Restarter
-We want to create a bat/icon to click and automatically restart to another OS.
+We want to create a icon to click and automatically restart to another OS.
 
 > First we create a .bat file with the next parameters:
 >
