@@ -5,11 +5,11 @@
 >
 > Easy, first we create a .bat file with the next commands:
 >
-```
-@echo off
-bcdedit /default {}
-shutdown /r /f /t 0
-```
+> ```
+> @echo off
+> bcdedit /default {}
+> shutdown /r /f /t 0
+> ```
 >
 > Now, beetween the brackets { }, we need to type the derised OS ID.
 > _(just type bcdedit in cmd loser)_
