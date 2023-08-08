@@ -21,6 +21,7 @@ exit
 
 </br> 
 </br> 
+---
 
 ### Now, you can do the same in your other OS. Or automatically set default your primary OS;
 
@@ -31,14 +32,17 @@ bcdedit /default {}
 exit
 ```
 
-- Between the brackets type your MAIN OS **ID**. _(or the one you want to keep default)_
+- Between the brackets type your MAIN OS **ID**[^1]. _(or the one you want to keep default)_
 
-- Save and put the bat in _Shell:Startup_
+- Save and put the bat in _Shell:Startup_[^3]:
    
+[^3]:
 ```
 If u cant open that folder, there's the directory:
 
 "C:\ProgramData\Microsoft\Windows\Start Menu\Programs"
 "C:\Users\%USERNAME%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
 ```
-Done. After you start the windows, it will set-up default the OS you want.
+
+- Done. After you start the windows, it will set-up default the OS you want.
+
