@@ -18,7 +18,7 @@ exit
 
 - Done, Save & create a shortcut if u want to change the icon. [^2]
 [^2]: **(Right Click the Shortcut > Properties > Change Icon).**
-</br> 
+
 -----
 
 ### Now, you can do the same in your other OS. Or automatically set default your primary OS;
