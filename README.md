@@ -14,9 +14,10 @@ bcdedit /default {}
 shutdown /r /f /t 0
 ```
 
-Now, beetween the brackets {}, we need to type the other OS ID.
-(just type _bcdedit_ in cmd _loser_)
+Now, beetween the brackets { }, we need to type the derised OS ID.
+_(just type bcdedit in cmd loser)_
 
-![Screenshot](https://github.com/gzmatte/Dual-Boot/assets/117684932/b4b5725b-a523-4f90-b696-d752a2775bf7)
-.
+![cmd](https://github.com/gzmatte/Dual-Boot/assets/117684932/5294fd13-f02a-475e-b8aa-50ee51a8fa8c)
+
+Example:
 ![Example](https://github.com/gzmatte/Dual-Boot/assets/117684932/6c683cd0-e616-4f0e-ae57-fe4d5aa6b5df)
