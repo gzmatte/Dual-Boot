@@ -25,5 +25,11 @@ Now, you can do the same in the another OS. Or create a startup file to automati
 > bcdedit /default {}
 > exit
 > ```
-> Between the brackets type your MAIN OS **ID**. (or the one you want to keep default)
+> Between the brackets type your MAIN OS **ID**. _(or the one you want to keep default)_
 > Save and put the bat in _Shell:Startup_
+
+> If u cant open that folder, there's the directory:
+> ```
+> "C:\ProgramData\Microsoft\Windows\Start Menu\Programs"
+> "C:\Users\%USERNAME%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
+> ```
