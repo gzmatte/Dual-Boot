@@ -35,16 +35,19 @@ exit
 
 ### Done. After you start the OS, it will set-up default the OS you selected.
 
-</br> 
-</br> 
-</br> 
-</br> 
-</br> 
-</br> 
-</br>
-
 Example:
 
 ![Screenshot_8](https://github.com/gzmatte/Dual-Boot/assets/117684932/fdca03b2-2ea5-44d6-8585-cb9f32bb9459)
+
+
+</br>
+
+</br>
+
+</br>
+
+</br>
+
+</br>
 
 
