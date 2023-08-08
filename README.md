@@ -11,12 +11,12 @@ shutdown /r /f /t 0
 exit
 ```
 
-- Now, between the brackets **{ }**, we need to type the desired OS **ID**[^1]
+- Now, between the brackets **{ }**, we need to type the desired OS **ID**. [^1]
 [^1]: **(just type bcdedit in cmd).**
 
 ![Example](https://github.com/gzmatte/Dual-Boot/assets/117684932/04b9a821-99e3-4bb7-9242-3cf1bd5aec9d)
 
-- Done, Save & create a shortcut if u want to change the icon.[^2]
+- Done, Save & create a shortcut if u want to change the icon. [^2]
 [^2]: **(Right Click the Shortcut > Properties > Change Icon).**
 
 </br> 
@@ -32,7 +32,7 @@ bcdedit /default {}
 exit
 ```
 
-- Between the brackets type your MAIN OS **ID**.[^1] _(or the one you want to keep default)_
+- Between the brackets type your MAIN OS **ID**. [^1] _(or the one you want to keep default)_
 
 - Save and put the bat in Shell:Startup. [^3]
    
