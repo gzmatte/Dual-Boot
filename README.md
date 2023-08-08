@@ -1,4 +1,4 @@
-# Lazy Dual-Boot Restarter
+## Lazy Dual-Boot Restarter
 > We want to create an icon _(or bat)_ to click and automatically restart to another OS.
 
 
