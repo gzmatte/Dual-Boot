@@ -11,13 +11,13 @@ shutdown /r /f /t 0
 exit
 ```
 
-Now, between the brackets **{ }**, we need to type the desired OS **ID**[^1]
-[^1]: _(just type bcdedit in cmd)._
+- Now, between the brackets **{ }**, we need to type the desired OS **ID**[^1]
+[^1]: **(just type bcdedit in cmd).**
 
 ![Example](https://github.com/gzmatte/Dual-Boot/assets/117684932/04b9a821-99e3-4bb7-9242-3cf1bd5aec9d)
 
 - Done, Save & create a shortcut if u want to change the icon.[^2]
-[^2]:_(Right Click > Properties > Change Icon)_.
+[^2]: **(Right Click > Properties > Change Icon).**
 
 </br> 
 </br> 
