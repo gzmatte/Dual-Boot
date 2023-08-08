@@ -1,6 +1,4 @@
 # Dual-Boot Restarter
-> This is only a read-me file.
->
 > We want to create an executable batch to click in there and automatically open the other OS.
 >
 > How can we do this?
