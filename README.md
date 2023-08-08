@@ -16,7 +16,8 @@ Now, between the brackets **{ }**, we need to type the desired OS **ID**[^1]
 
 ![Example](https://github.com/gzmatte/Dual-Boot/assets/117684932/04b9a821-99e3-4bb7-9242-3cf1bd5aec9d)
 
-- Done. Save the file & create a shortcut if u want to change the icon. _(Right Click > Properties > Change Icon)_.
+- Done, Save & create a shortcut if u want to change the icon.[^2]
+[^2]:_(Right Click > Properties > Change Icon)_.
 
 </br> 
 </br> 
