@@ -18,12 +18,12 @@ We want to create an icon _(or bat)_ to click and automatically restart to anoth
 > ![Example](https://github.com/gzmatte/Dual-Boot/assets/117684932/04b9a821-99e3-4bb7-9242-3cf1bd5aec9d)
 >
 > - Done. Save the file & create a shortcut if u want to change the icon. _(Right Click > Properties > Change Icon)_.
-
-</br> 
-</br> 
-
+>
+> </br> 
+> </br> 
+> 
 Now, you can do the same in the another OS. Or create a startup file to automatically set default your primary OS.
-
+>
 > - Create this **[.bat](https://github.com/gzmatte/Dual-Boot/releases/download/1/start-bcd.bat);
 > ```
 > @echo off
