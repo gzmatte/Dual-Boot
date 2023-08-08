@@ -15,4 +15,15 @@ We want to create an icon to click and automatically restart to another OS.
 > 
 > ![Example](https://github.com/gzmatte/Dual-Boot/assets/117684932/04b9a821-99e3-4bb7-9242-3cf1bd5aec9d)
 >
-> Done. Save the file and create a shortcut if u want to change the icon. _(Right Click > Properties > Change Icon)_
+> Done. Save the file and create a shortcut if u want to change the icon. _(Right Click > Properties > Change Icon)_.
+
+
+Now, you can do the same in the another OS. Or create a startup file to automatically set default your primary os.
+> Create this **[.bat](https://github.com/gzmatte/Dual-Boot/releases/download/1/start-bcd.bat);
+> ```
+> @echo off
+> bcdedit /default {}
+> exit
+> ```
+> Between the brackets type your MAIN OS **ID**. (or the one you want to keep default)
+> Save and put the bat in _Shell:Startup_
