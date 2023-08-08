@@ -3,7 +3,7 @@
 >
 > How can we do this?
 >
-> Easy, first we create a .bat file with the next commands:
+> Easy, first we create a .bat file with the next parameters:
 >
 > ```
 > @echo off
