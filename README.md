@@ -36,7 +36,7 @@ exit
 
 - Save and put the bat in Shell:Startup. [^3]
    
-[^3]: ``` If u cant open that folder, there's the directory: - "C:\ProgramData\Microsoft\Windows\Start Menu\Programs" ----- "C:\Users\%USERNAME%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"```
+[^3]: **If u cant open that folder, go to "C:\ProgramData\Microsoft\Windows\Start Menu\Programs"**
 
 - Done. After you start the windows, it will set-up default the OS you want.
 
