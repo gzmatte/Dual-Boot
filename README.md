@@ -35,9 +35,6 @@ exit
 
 ### Done. After you start the OS, it will set-up default the OS you selected.
 
-
-
-
 </br> 
 </br> 
 </br> 
@@ -45,3 +42,5 @@ exit
 </br> 
 </br> 
 </br>
+
+Example: ![Screenshot](https://github.com/gzmatte/Dual-Boot/assets/117684932/e2ff20b9-b610-4697-ba0e-99435cf6e51a)
