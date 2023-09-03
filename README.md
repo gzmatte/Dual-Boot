@@ -18,6 +18,7 @@ exit
 [^2]: **(Right Click the Shortcut > Properties > Change Icon).**
 
 Ready, Example:
+
 ![Screenshot_8](https://github.com/gzmatte/Dual-Boot/assets/117684932/fdca03b2-2ea5-44d6-8585-cb9f32bb9459)
 
 -----
