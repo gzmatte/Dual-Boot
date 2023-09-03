@@ -19,7 +19,8 @@ exit
 
 -----
 
-### Now, you can do the same in your other OS > or automatically set default your primary OS;
+### Now, you can do the same in your other OS.
+Or automatically set default your primary OS with this guide:
 
 - Create this **[.bat](https://github.com/gzmatte/Dual-Boot/releases/download/1/start-bcd.bat)**;
 ```
@@ -33,7 +34,7 @@ exit
 
 [^3]: **If u cant open that folder, go to "C:\ProgramData\Microsoft\Windows\Start Menu\Programs"**
 
-### Ready! Follow pls.
+### Ready!
 
 </br>
 
