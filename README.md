@@ -25,7 +25,7 @@ exit
 
 -----
 
-You can set the default primary OS automatically with this; 
+You can set the default OS automatically with this; 
 
 - Create this **[.bat](https://github.com/gzmatte/Dual-Boot/releases/download/1/start-bcd.bat)**;
 ```
