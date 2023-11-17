@@ -25,7 +25,7 @@ exit
 
 -----
 
-Or automatically set to default your primary OS with this guide:
+You can set the default primary OS automatically with this; 
 
 - Create this **[.bat](https://github.com/gzmatte/Dual-Boot/releases/download/1/start-bcd.bat)**;
 ```
@@ -35,9 +35,8 @@ exit
 ```
 - Between the brackets type your MAIN OS **ID**. [^1] _(or the one you want to keep default)_
 
-- Save and put the bat in Shell:Startup. [^3]
-
-[^3]: **If u cant open that folder, go to "C:\ProgramData\Microsoft\Windows\Start Menu\Programs"**
+- Save and put the bat in Shell:Startup.
+> (U can put this in the secondary so after a restart you go back to the main OS)
 
 ### Ready!
 
