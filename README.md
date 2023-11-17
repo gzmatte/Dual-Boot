@@ -19,8 +19,6 @@ exit
 > Create a shortcut if u want to change the icon. [^2]
 [^2]: **(Right Click the Shortcut > Properties > Change Icon).**
 
-Example:
-
 ![Screenshot_8](https://github.com/gzmatte/Dual-Boot/assets/117684932/fdca03b2-2ea5-44d6-8585-cb9f32bb9459)
 
 ### Now, you can do the same in your other OS.
