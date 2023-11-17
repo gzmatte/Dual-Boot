@@ -14,7 +14,7 @@ exit
 
 ![Example](https://github.com/gzmatte/Dual-Boot/assets/117684932/04b9a821-99e3-4bb7-9242-3cf1bd5aec9d)
 
-- Done, Save & create a shortcut if u want to change the icon. [^2]
+- Done. Create a shortcut if u want to change the icon. [^2]
 [^2]: **(Right Click the Shortcut > Properties > Change Icon).**
 
 Ready, Example:
