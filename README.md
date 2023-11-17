@@ -36,7 +36,7 @@ exit
 - Between the brackets type your MAIN OS **ID**. [^1] _(or the one you want to keep default)_
 
 - Save and put the bat in Shell:Startup.
-> (U can put this in the secondary so after a restart you go back to the main OS)
+> (U can put this in the secondary OS so after a restart you go back to the main OS)
 
 ### Ready!
 
