@@ -21,9 +21,10 @@ Ready, Example:
 
 ![Screenshot_8](https://github.com/gzmatte/Dual-Boot/assets/117684932/fdca03b2-2ea5-44d6-8585-cb9f32bb9459)
 
+### Now, you can do the same in your other OS.
+
 -----
 
-### Now, you can do the same in your other OS.
 Or automatically set to default your primary OS with this guide:
 
 - Create this **[.bat](https://github.com/gzmatte/Dual-Boot/releases/download/1/start-bcd.bat)**;
