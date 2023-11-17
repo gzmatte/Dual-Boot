@@ -38,8 +38,6 @@ exit
 - Save and put the bat in Shell:Startup.
 > (U can put this in the secondary OS so after a restart you go back to the main OS)
 
-### Ready!
-
 </br>
 
 </br>
